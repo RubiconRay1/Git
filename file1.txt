@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hellow 
+=======
+Hellow World
+>>>>>>> vetka1
